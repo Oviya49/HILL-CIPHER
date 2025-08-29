@@ -17,14 +17,15 @@ The matrix used for encryption is the cipher key, and it should be chosen
 
 
 ## ALGORITHM:
-
+```
 STEP-1: Read the plain text and key from the user. 
 STEP-2: Split the plain text into groups of length three.
 STEP-3: Arrange the keyword in a 3*3 matrix.
 STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
+```
 
-## PROGRAM 
+## PROGRAM :
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -63,8 +64,8 @@ int main() {
 }
 
 ```
-## OUTPUT
+## OUTPUT:
 <img width="1454" height="769" alt="image" src="https://github.com/user-attachments/assets/0bd36331-aaec-48ac-bc8b-dbe223bcf70d" />
 
-## RESULT
+## RESULT:
 Thus the program executed successfully.
