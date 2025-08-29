@@ -1,11 +1,10 @@
-## EX. NO: 3 
-## HILL CIPHER
+## EX. NO: 3  IMPLEMENTATION OF HILL CIPHER
+
 ### Name           : Oviya N
 ### Register Number: 212223040140
+
 ## AIM:
- IMPLEMENTATION OF HILL CIPHER
- 
-## To write a C program to implement the hill cipher substitution techniques.
+  To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
